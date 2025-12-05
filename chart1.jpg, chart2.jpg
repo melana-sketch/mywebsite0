@@ -1,0 +1,9 @@
+<div style="margin: 20px 0; text-align: center;">
+    <img src="chart1.jpg" alt="Графік аналітики 1" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="font-size: 0.9em; color: #666;">Рис. 1. Динаміка показників економічної безпеки</p>
+</div>
+
+<div style="margin: 20px 0; text-align: center;">
+    <img src="chart2.jpg" alt="Графік аналітики 2" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="font-size: 0.9em; color: #666;">Рис. 2. Структурні зміни показників</p>
+</div>
